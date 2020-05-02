@@ -101,23 +101,23 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/KamilJanowski11"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:kgjanowski@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/kamiljano"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/kamil-janowski-2477b918"
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    url  = "https://stackoverflow.com/users/2229234/kamil-janowski"
 
 [languages]
   [languages.en]
