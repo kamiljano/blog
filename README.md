@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/104e1008-dd14-4d94-a81f-1781bcbc8cac/deploy-status)](https://app.netlify.com/sites/kamil-janowski-blog/deploys)
+
 # About
 
 The project contains Kamil Janowski's statically generated blog.
