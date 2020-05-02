@@ -26,4 +26,4 @@ and I consider myself to be pretty good in what I do, but obviously there are pe
 out there. All I'm trying to do here is describe solutions to various problems that I couldn't find anywhere else...
 and there great many of those. 
 
-![me](/me.jpg 'me')
+![me](/img/me.jpg)

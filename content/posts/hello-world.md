@@ -1,9 +1,10 @@
 ---
-title: "Hello world"
+title: "HelloWorld"
 date: 2020-05-02T17:02:54+03:00
 draft: false
 toc: false
 images:
+summary: "A quick intro to my blog"
 ---
 
 So there you go. I'm writing my own blog now. I've been thinking about it for a while.
