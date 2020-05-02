@@ -25,3 +25,5 @@ Should you trust anything I write over here? Well... It's up to you. I do have y
 and I consider myself to be pretty good in what I do, but obviously there are people way more knowledgable than me 
 out there. All I'm trying to do here is describe solutions to various problems that I couldn't find anywhere else...
 and there great many of those. 
+
+![me](/me.jpg 'me')
